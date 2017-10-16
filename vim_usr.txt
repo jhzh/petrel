@@ -1,0 +1,32 @@
+vim user doc
+/usr/share/vim/vim74/doc
+:r
+导入文件
+
+:!ls  
+直接执行命令，
+
+:r!date
+2017年 09月 12日 星期二 21:36:19 CST
+快捷鲟这
+map
+ctrl +v + ctrl+p
+#ctrl + v +p
+
+map ^p I#<ESC>
+map ^b 0x
+
+jianghzh@inspur.com
+jianghzh@inspur.com
+map ^e jianghzh@inspur.com
+10,20s/^/#/g
+:10,20s/^#//g
+ab mymail jianghzh@inspur.com
+jianghzh@inspur.com
+
+
+unab
+unmap
+
+^表示行首
+
