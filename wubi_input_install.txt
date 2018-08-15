@@ -1,0 +1,10 @@
+sudo apt-get install ibus-table-wubi
+对于 ibus
+安装 ibus-table-wubi
+重新启动计算机
+如果不出现，在 ibus 设置中手动添加五笔即可
+
+
+对于 fcitx
+安装 fcitx-table-wubi 或 fcitx-table-wbpy
+重新启动计算机
